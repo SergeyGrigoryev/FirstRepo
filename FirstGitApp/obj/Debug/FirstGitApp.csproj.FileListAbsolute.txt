@@ -1,0 +1,5 @@
+D:\SergeyDeveloper\Dropbox\Git\Projects\FirstRepo\FirstGitApp\bin\Debug\FirstGitApp.exe
+D:\SergeyDeveloper\Dropbox\Git\Projects\FirstRepo\FirstGitApp\bin\Debug\FirstGitApp.pdb
+D:\SergeyDeveloper\Dropbox\Git\Projects\FirstRepo\FirstGitApp\obj\Debug\FirstGitApp.csprojResolveAssemblyReference.cache
+D:\SergeyDeveloper\Dropbox\Git\Projects\FirstRepo\FirstGitApp\obj\Debug\FirstGitApp.exe
+D:\SergeyDeveloper\Dropbox\Git\Projects\FirstRepo\FirstGitApp\obj\Debug\FirstGitApp.pdb
